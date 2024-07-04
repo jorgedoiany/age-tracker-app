@@ -35,6 +35,6 @@ This project, **Age Tracker**, is a precise, real-time tool that calculates and 
 
 That's it! You should now be able to see and use the **Age Tracker** application in your browser.
 
-## Authors
+## Author
 
 - [@jorgedoiany](https://github.com/jorgedoiany)
