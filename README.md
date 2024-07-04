@@ -4,7 +4,7 @@ This project, **Age Tracker**, is a precise, real-time tool that calculates and 
 
 ## Screenshots
 
-![App Screenshot](./age-tracker-img.png)
+![App Screenshot](./assets/age-tracker-img.png)
 
 ## Tech Stack
 
